@@ -1,0 +1,28 @@
+{
+  "name": "production-management",
+  "version": "1.0.0",
+  "description": "This can be used for production management purpose,which can be used by any company who make products in 5-10 steps as per requirment",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-ejs": "^2.0.0",
+    "exceljs": "^4.3.0",
+    "filereader": "^0.10.3",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "import": "^0.0.6",
+    "mongo-xlsx": "^1.0.12",
+    "mongoose-unique-validator": "^3.0.0",
+    "mongoose": "^6.0.13",
+    "path": "^0.12.7",
+    "xlsx": "^0.17.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BEAST ADAMANT",
+  "license": "ISC"
+}
